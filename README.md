@@ -34,7 +34,7 @@ Compatible data source (as per your dashboard setup)
 
 **Screenshots**
 <a href="https://github.com/KhansuliPrachi/PowerBi---Dashboard-2/blob/main/Sample%20-%20Superstore.xlsx" target="_blank"> Dataset</a>
-![Dashboard Screenshot]([screenshots/dashboard_view.png](https://github.com/KhansuliPrachi/PowerBi---Dashboard-2/blob/main/coverpage.jpg))
+![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBi---Dashboard-2/blob/main/coverpage.jpg)
 ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBi---Dashboard-2/blob/main/Analysis%20data%201.jpg)
 ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBi---Dashboard-2/blob/main/Analysis%20data%203.jpg)
 ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBi---Dashboard-2/blob/main/Analysis%20data%204.jpg)
